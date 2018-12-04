@@ -16,7 +16,7 @@ public class Demo1ApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
+		System.out.println("上传到Git的测试代码2.0");
 		System.out.println(person);
 	}
 
